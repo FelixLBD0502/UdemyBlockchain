@@ -11,6 +11,7 @@ class Transaction(Printable):
         :recipient: The recipient of the coins.
         :signature: The signature of the transaction.
         :amount: The amount of coins sent.
+        Hello World
     """
 
     def __init__(self, sender, recipient, signature, amount):
